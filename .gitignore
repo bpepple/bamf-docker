@@ -6,3 +6,6 @@ env
 __pycache__
 .venv
 .cache
+# Eclipse files
+.project
+.settings/
